@@ -12,4 +12,10 @@
 
 This codelab uses Vertex AI SDK for Python and Langchain, and chromadb for VectorDb.
 
+# Presentation
+Find the pdf for the presentation
+
+# Run the Code
+Follow the setup instructions and run the ipynb in google colab.
+
 
